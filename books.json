@@ -1,0 +1,570 @@
+{
+    "The Silent Patient": {
+        "author": "Alex Michaelides",
+        "isbn": "9781250301697",
+        "genre": "Thriller",
+        "price": "₹1299",
+        "age_recommendation": "18+",
+        "available": true
+    },
+    "Verity": {
+        "author": "Colleen Hoover",
+        "isbn": "9781791392796",
+        "genre": "Suspense",
+        "price": "₹999",
+        "age_recommendation": "18+",
+        "available": true
+    },
+    "It Ends With Us": {
+        "author": "Colleen Hoover",
+        "isbn": "9781501110368",
+        "genre": "Romance",
+        "price": "₹899",
+        "age_recommendation": "16+",
+        "available": true
+    },
+    "Sherlock Holmes: The Complete Collection": {
+        "author": "Arthur Conan Doyle",
+        "isbn": "9780241347782",
+        "genre": "Mystery",
+        "price": "₹1499",
+        "age_recommendation": "14+",
+        "available": true
+    },
+    "Sapiens: A Brief History of Humankind": {
+        "author": "Yuval Noah Harari",
+        "isbn": "9780062316097",
+        "genre": "General Knowledge",
+        "price": "₹799",
+        "age_recommendation": "16+",
+        "available": true
+    },
+    "The Hitchhiker's Guide to the Galaxy": {
+        "author": "Douglas Adams",
+        "isbn": "9780345391803",
+        "genre": "Science Fiction",
+        "price": "₹699",
+        "age_recommendation": "12+",
+        "available": true
+    },
+    "A Brief History of Time": {
+        "author": "Stephen Hawking",
+        "isbn": "9780553380163",
+        "genre": "Space",
+        "price": "₹899",
+        "age_recommendation": "16+",
+        "available": true
+    },
+    "The Martian": {
+        "author": "Andy Weir",
+        "isbn": "9780553418026",
+        "genre": "Science Fiction",
+        "price": "₹749",
+        "age_recommendation": "14+",
+        "available": true
+    },
+    "Digital Fortress": {
+        "author": "Dan Brown",
+        "isbn": "9780312263126",
+        "genre": "Technology",
+        "price": "₹899",
+        "age_recommendation": "16+",
+        "available": true
+    },
+    "Murder on the Orient Express": {
+        "author": "Agatha Christie",
+        "isbn": "9780062693662",
+        "genre": "Murder Mystery",
+        "price": "₹599",
+        "age_recommendation": "14+",
+        "available": true
+    },
+    "The Girl with the Dragon Tattoo": {
+        "author": "Stieg Larsson",
+        "isbn": "9780307269751",
+        "genre": "Crime Thriller",
+        "price": "₹899",
+        "age_recommendation": "18+",
+        "available": true
+    },
+    "Gone Girl": {
+        "author": "Gillian Flynn",
+        "isbn": "9780307588370",
+        "genre": "Suspense",
+        "price": "₹1099",
+        "age_recommendation": "18+",
+        "available": true
+    },
+    "The Alchemist": {
+        "author": "Paulo Coelho",
+        "isbn": "9780061122415",
+        "genre": "Philosophy",
+        "price": "₹499",
+        "age_recommendation": "12+",
+        "available": true
+    },
+    "Rich Dad Poor Dad": {
+        "author": "Robert Kiyosaki",
+        "isbn": "9781612680194",
+        "genre": "Finance",
+        "price": "₹699",
+        "age_recommendation": "16+",
+        "available": true
+    },
+    "The Psychology of Money": {
+        "author": "Morgan Housel",
+        "isbn": "9780857197689",
+        "genre": "Finance",
+        "price": "₹799",
+        "age_recommendation": "18+",
+        "available": true
+    },
+    "Educated": {
+        "author": "Tara Westover",
+        "isbn": "9780399590504",
+        "genre": "Biography",
+        "price": "₹999",
+        "age_recommendation": "18+",
+        "available": true
+    },
+    "The Midnight Library": {
+        "author": "Matt Haig",
+        "isbn": "9780525559474",
+        "genre": "Fantasy",
+        "price": "₹699",
+        "age_recommendation": "16+",
+        "available": true
+    },
+    "Dune": {
+        "author": "Frank Herbert",
+        "isbn": "9780441013593",
+        "genre": "Science Fiction",
+        "price": "₹1299",
+        "age_recommendation": "14+",
+        "available": true
+    },
+    "1984": {
+        "author": "George Orwell",
+        "isbn": "9780451524935",
+        "genre": "Dystopian",
+        "price": "₹599",
+        "age_recommendation": "16+",
+        "available": true
+    },
+    "To Kill a Mockingbird": {
+        "author": "Harper Lee",
+        "isbn": "9780061120084",
+        "genre": "Drama",
+        "price": "₹499",
+        "age_recommendation": "14+",
+        "available": true
+    },
+    "The Great Gatsby": {
+        "author": "F. Scott Fitzgerald",
+        "isbn": "9780743273565",
+        "genre": "Classic",
+        "price": "₹399",
+        "age_recommendation": "14+",
+        "available": true
+    },
+    "Frankenstein": {
+        "author": "Mary Shelley",
+        "isbn": "9780486282114",
+        "genre": "Horror",
+        "price": "₹299",
+        "age_recommendation": "12+",
+        "available": true
+    },
+    "Dracula": {
+        "author": "Bram Stoker",
+        "isbn": "9780486411095",
+        "genre": "Horror",
+        "price": "₹349",
+        "age_recommendation": "12+",
+        "available": true
+    },
+    "Pride and Prejudice": {
+        "author": "Jane Austen",
+        "isbn": "9780486284735",
+        "genre": "Romance",
+        "price": "₹349",
+        "age_recommendation": "12+",
+        "available": true
+    },
+    "The Shining": {
+        "author": "Stephen King",
+        "isbn": "9780307743657",
+        "genre": "Horror",
+        "price": "₹599",
+        "age_recommendation": "18+",
+        "available": true
+    },
+    "Pet Sematary": {
+        "author": "Stephen King",
+        "isbn": "9781501156700",
+        "genre": "Horror",
+        "price": "₹549",
+        "age_recommendation": "18+",
+        "available": true
+    },
+    "The Haunting of Hill House": {
+        "author": "Shirley Jackson",
+        "isbn": "9780143039983",
+        "genre": "Horror",
+        "price": "₹499",
+        "age_recommendation": "16+",
+        "available": true
+    },
+    "Brave New World": {
+        "author": "Aldous Huxley",
+        "isbn": "9780060850524",
+        "genre": "Dystopian",
+        "price": "₹599",
+        "age_recommendation": "16+",
+        "available": true
+    },
+    "Fahrenheit 451": {
+        "author": "Ray Bradbury",
+        "isbn": "9781451673319",
+        "genre": "Dystopian",
+        "price": "₹499",
+        "age_recommendation": "14+",
+        "available": true
+    },
+    "The Road": {
+        "author": "Cormac McCarthy",
+        "isbn": "9780307387899",
+        "genre": "Dystopian",
+        "price": "₹799",
+        "age_recommendation": "18+",
+        "available": true
+    },
+    "The Book Thief": {
+        "author": "Markus Zusak",
+        "isbn": "9780375842207",
+        "genre": "Historical Fiction",
+        "price": "₹699",
+        "age_recommendation": "14+",
+        "available": true
+    },
+    "The Nightingale": {
+        "author": "Kristin Hannah",
+        "isbn": "9780312577223",
+        "genre": "Historical Fiction",
+        "price": "₹799",
+        "age_recommendation": "16+",
+        "available": true
+    },
+    "The Tattooist of Auschwitz": {
+        "author": "Heather Morris",
+        "isbn": "9780062797155",
+        "genre": "Historical Fiction",
+        "price": "₹599",
+        "age_recommendation": "16+",
+        "available": true
+    },
+    "The Light We Lost": {
+        "author": "Jill Santopolo",
+        "isbn": "9780735212763",
+        "genre": "Romance",
+        "price": "₹499",
+        "age_recommendation": "16+",
+        "available": true
+    },
+    "One Day": {
+        "author": "David Nicholls",
+        "isbn": "9780307946713",
+        "genre": "Romance",
+        "price": "₹549",
+        "age_recommendation": "16+",
+        "available": true
+    },
+    "Love & Gelato": {
+        "author": "Jenna Evans Welch",
+        "isbn": "9781481432542",
+        "genre": "Romance",
+        "price": "₹399",
+        "age_recommendation": "12+",
+        "available": true
+    },
+    "Me Before You": {
+        "author": "Jojo Moyes",
+        "isbn": "9780143124542",
+        "genre": "Romance",
+        "price": "₹649",
+        "age_recommendation": "16+",
+        "available": true
+    },
+    "Eleanor Oliphant Is Completely Fine": {
+        "author": "Gail Honeyman",
+        "isbn": "9780735220683",
+        "genre": "Drama",
+        "price": "₹599",
+        "age_recommendation": "16+",
+        "available": true
+    },
+    "Where the Crawdads Sing": {
+        "author": "Delia Owens",
+        "isbn": "9780735219106",
+        "genre": "Mystery",
+        "price": "₹799",
+        "age_recommendation": "18+",
+        "available": true
+    },
+    "Big Little Lies": {
+        "author": "Liane Moriarty",
+        "isbn": "9780425274866",
+        "genre": "Mystery",
+        "price": "₹599",
+        "age_recommendation": "18+",
+        "available": true
+    },
+    "The Woman in the Window": {
+        "author": "A.J. Finn",
+        "isbn": "9780062678416",
+        "genre": "Thriller",
+        "price": "₹699",
+        "age_recommendation": "18+",
+        "available": true
+    },
+    "The Couple Next Door": {
+        "author": "Shari Lapena",
+        "isbn": "9780735221109",
+        "genre": "Thriller",
+        "price": "₹549",
+        "age_recommendation": "18+",
+        "available": true
+    },
+    "The 5 AM Club": {
+        "author": "Robin Sharma",
+        "isbn": "9781443456623",
+        "genre": "Self-Help",
+        "price": "₹799",
+        "age_recommendation": "16+",
+        "available": true
+    },
+    "Atomic Habits": {
+        "author": "James Clear",
+        "isbn": "9780735211292",
+        "genre": "Self-Help",
+        "price": "₹899",
+        "age_recommendation": "16+",
+        "available": true
+    },
+    "Deep Work": {
+        "author": "Cal Newport",
+        "isbn": "9781455586692",
+        "genre": "Self-Help",
+        "price": "₹749",
+        "age_recommendation": "16+",
+        "available": true
+    },
+    "Thinking, Fast and Slow": {
+        "author": "Daniel Kahneman",
+        "isbn": "9780374533557",
+        "genre": "Psychology",
+        "price": "₹999",
+        "age_recommendation": "18+",
+        "available": true
+    },
+    "Influence: The Psychology of Persuasion": {
+        "author": "Robert Cialdini",
+        "isbn": "9780061241895",
+        "genre": "Psychology",
+        "price": "₹799",
+        "age_recommendation": "18+",
+        "available": true
+    },
+    "The Very Hungry Caterpillar": {
+        "author": "Eric Carle",
+        "isbn": "9780399226908",
+        "genre": "Kids",
+        "price": "₹299",
+        "age_recommendation": "0-5",
+        "available": true
+    },
+    "Goodnight Moon": {
+        "author": "Margaret Wise Brown",
+        "isbn": "9780064430173",
+        "genre": "Kids",
+        "price": "₹350",
+        "age_recommendation": "0-5",
+        "available": true
+    },
+    "Charlotte's Web": {
+        "author": "E.B. White",
+        "isbn": "9780061124958",
+        "genre": "Kids",
+        "price": "₹499",
+        "age_recommendation": "6-12",
+        "available": true
+    },
+    "Matilda": {
+        "author": "Roald Dahl",
+        "isbn": "9780142410370",
+        "genre": "Kids",
+        "price": "₹599",
+        "age_recommendation": "6-12",
+        "available": true
+    },
+    "The Gruffalo": {
+        "author": "Julia Donaldson",
+        "isbn": "9780333710937",
+        "genre": "Kids",
+        "price": "₹399",
+        "age_recommendation": "3-7",
+        "available": true
+    },
+    "Harry Potter and the Sorcerer's Stone": {
+        "author": "J.K. Rowling",
+        "isbn": "9780590353427",
+        "genre": "Kids",
+        "price": "₹899",
+        "age_recommendation": "8+",
+        "available": true
+    },
+    "Diary of a Wimpy Kid": {
+        "author": "Jeff Kinney",
+        "isbn": "9780810993136",
+        "genre": "Kids",
+        "price": "₹499",
+        "age_recommendation": "7-14",
+        "available": true
+    },
+    "The Lion, the Witch and the Wardrobe": {
+        "author": "C.S. Lewis",
+        "isbn": "9780064409428",
+        "genre": "Kids",
+        "price": "₹450",
+        "age_recommendation": "7-12",
+        "available": true
+    },
+    "The Little Prince": {
+        "author": "Antoine de Saint-Exupéry",
+        "isbn": "9780156012195",
+        "genre": "Kids",
+        "price": "₹599",
+        "age_recommendation": "6+",
+        "available": true
+    },
+    "The Tale of Peter Rabbit": {
+        "author": "Beatrix Potter",
+        "isbn": "9780723247703",
+        "genre": "Kids",
+        "price": "₹349",
+        "age_recommendation": "0-5",
+        "available": true
+    },
+    "The Giving Tree": {
+        "author": "Shel Silverstein",
+        "isbn": "9780060256654",
+        "genre": "Kids",
+        "price": "₹399",
+        "age_recommendation": "3-7",
+        "available": true
+    },
+    "The 7 Habits of Highly Effective People": {
+        "author": "Stephen R. Covey",
+        "isbn": "9780743269513",
+        "genre": "Self-Help",
+        "price": "₹899",
+        "age_recommendation": "18+",
+        "available": true
+    },
+    "Think and Grow Rich": {
+        "author": "Napoleon Hill",
+        "isbn": "9780449937393",
+        "genre": "Self-Help",
+        "price": "₹699",
+        "age_recommendation": "16+",
+        "available": true
+    },
+    "How to Win Friends and Influence People": {
+        "author": "Dale Carnegie",
+        "isbn": "9789380914771",
+        "genre": "Self-Help",
+        "price": "₹599",
+        "age_recommendation": "16+",
+        "available": true
+    },
+    "Outliers": {
+        "author": "Malcolm Gladwell",
+        "isbn": "9780316017930",
+        "genre": "Psychology",
+        "price": "₹799",
+        "age_recommendation": "18+",
+        "available": true
+    },
+    "The Power of Now": {
+        "author": "Eckhart Tolle",
+        "isbn": "9781577314806",
+        "genre": "Self-Help",
+        "price": "₹999",
+        "age_recommendation": "18+",
+        "available": true
+    },
+    "Rich Dad's Guide to Investing": {
+        "author": "Robert Kiyosaki",
+        "isbn": "9781612680064",
+        "genre": "Finance",
+        "price": "₹699",
+        "age_recommendation": "16+",
+        "available": true
+    },
+    "The Lean Startup": {
+        "author": "Eric Ries",
+        "isbn": "9780307887894",
+        "genre": "Business",
+        "price": "₹799",
+        "age_recommendation": "18+",
+        "available": true
+    },
+    "The Intelligent Investor": {
+        "author": "Benjamin Graham",
+        "isbn": "9780060555665",
+        "genre": "Finance",
+        "price": "₹1299",
+        "age_recommendation": "18+",
+        "available": true
+    },
+    "The Power of Habit": {
+        "author": "Charles Duhigg",
+        "isbn": "9780812981605",
+        "genre": "Self-Help",
+        "price": "₹699",
+        "age_recommendation": "16+",
+        "available": true
+    },
+    "Educated: A Memoir": {
+        "author": "Tara Westover",
+        "isbn": "9780399590504",
+        "genre": "Biography",
+        "price": "₹999",
+        "age_recommendation": "18+",
+        "available": true
+    },
+    "The 48 Laws of Power": {
+        "author": "Robert Greene",
+        "isbn": "9780140280197",
+        "genre": "Self-Help",
+        "price": "₹799",
+        "age_recommendation": "18+",
+        "available": true
+    },
+    "The Complete Maus": {
+        "author": "Art Spiegelman",
+        "isbn": "9780394747231",
+        "genre": "Graphic Novel",
+        "price": "₹899",
+        "age_recommendation": "16+",
+        "available": true
+    },
+    "Rich Dad's Cashflow Quadrant": {
+        "author": "Robert Kiyosaki",
+        "isbn": "9781612680279",
+        "genre": "Finance",
+        "price": "₹649",
+        "age_recommendation": "16+",
+        "available": true
+    }
+}
